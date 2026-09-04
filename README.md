@@ -1,8 +1,11 @@
-# GA1.1-teamOnyx9
-Group Assignment 1.1
-## function `multiply`
+# GA1.1-teamOnyx9 Groupignment 1.1
+
+## function Multiply:
 Multiplier added. This function allows someone to input two number, which are then multiplied and the numbers are the shown. 
-## function `subtract`
+
+Subgroup added a feature to the multiply function that squares the outcome of the multiply function. It works on any digit and it doesn't work on lists.
+
+## function Subtract:
 takes two numbers and the output is the difference between them
 it breaks if an array or string is entered 
 ## function `add`
